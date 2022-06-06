@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[175],{18175:function(e,n,r){r.r(n);r(72791);var t=r(16030),u=r(80184);n.default=function(){(0,t.v9)((function(e){return e.user.loading})),(0,t.v9)((function(e){return e.user.loading_updated})),localStorage.getItem("accessToken"),(0,t.I0)(),(0,t.v9)((function(e){return e.user.userInfo}));return(0,u.jsx)(u.Fragment,{children:(0,u.jsx)("h1",{children:"Welcome to Card Management system."})})}}}]);
-//# sourceMappingURL=175.4033d9c8.chunk.js.map
